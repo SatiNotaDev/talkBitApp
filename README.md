@@ -27,7 +27,7 @@
 | Realtime   | WebSocket (Socket.IO)       |
 | AI Engine  | OpenAI API (GPT)            |
 | DevOps     | Docker, Docker Compose      |
-| Cache/Queue| Redis (optional)            |
+| Cache/Queue| Redis                       |
 
 ---
 
